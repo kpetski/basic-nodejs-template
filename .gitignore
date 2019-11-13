@@ -1,0 +1,7 @@
+node_modules/
+coverage/
+.vagrant/
+**/*.log
+artillery_report*.json
+.idea
+nyc_output/*
